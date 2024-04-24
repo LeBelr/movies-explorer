@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/movies-explorer/static/css/main.08f33625.css",
-    "main.js": "/movies-explorer/static/js/main.88dfbab8.js",
+    "main.css": "/movies-explorer/static/css/main.59646313.css",
+    "main.js": "/movies-explorer/static/js/main.0fee5087.js",
     "static/media/Inter-Medium.woff": "/movies-explorer/static/media/Inter-Medium.7ddb89dcdb33dd761944.woff",
     "static/media/Inter-Medium.woff2": "/movies-explorer/static/media/Inter-Medium.6db7e439cc4b0e5c0cd2.woff2",
     "static/media/Inter-Regular.woff": "/movies-explorer/static/media/Inter-Regular.8c206db99195777c6769.woff",
@@ -13,11 +13,11 @@
     "static/media/hamburger-menu.svg": "/movies-explorer/static/media/hamburger-menu.bc3f6448b5d51ce28967.svg",
     "static/media/like-active.svg": "/movies-explorer/static/media/like-active.8481cdda6178dd21eef4.svg",
     "static/media/close.svg": "/movies-explorer/static/media/close.4828fddbd650ab863f28.svg",
-    "main.08f33625.css.map": "/movies-explorer/static/css/main.08f33625.css.map",
-    "main.88dfbab8.js.map": "/movies-explorer/static/js/main.88dfbab8.js.map"
+    "main.59646313.css.map": "/movies-explorer/static/css/main.59646313.css.map",
+    "main.0fee5087.js.map": "/movies-explorer/static/js/main.0fee5087.js.map"
   },
   "entrypoints": [
-    "static/css/main.08f33625.css",
-    "static/js/main.88dfbab8.js"
+    "static/css/main.59646313.css",
+    "static/js/main.0fee5087.js"
   ]
 }

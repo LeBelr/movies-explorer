@@ -1,0 +1,27 @@
+@import url(../../vendor/normalize.css); /*Подключение normalize*/
+@import url(../../vendor/fonts/fonts.css); /*Подключение шрифта интер*/
+
+.page {
+  min-height: 100vh;
+  background-color: #202020;
+  color: #fff;
+  font-family: 'Inter', 'Arial',sans-serif;
+}
+
+.hover-link {
+  transition: opacity .3s linear;
+}
+
+.hover-link:hover {
+  opacity: .7;
+  cursor: pointer;
+}
+
+.hover-button {
+  transition: opacity .3s linear;
+}
+
+.hover-button:hover {
+  opacity: .8;
+  cursor: pointer;
+}
